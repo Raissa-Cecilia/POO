@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/Ale/.nuget/packages/": {}
+    "C:\\Users\\Raissa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/Ale/projects/PUCMINAS/POO/lista-3/POO-Lista3/Exercicio02-Veiculos/Exercicio02-Veiculos.csproj",
+      "projectUniqueName": "C:\\Users\\Raissa\\Documents\\portifolio\\POO\\lista-3\\POO-Lista3\\Exercicio02-Veiculos\\Exercicio02-Veiculos.csproj",
       "projectName": "Exercicio02-Veiculos",
-      "projectPath": "/home/Ale/projects/PUCMINAS/POO/lista-3/POO-Lista3/Exercicio02-Veiculos/Exercicio02-Veiculos.csproj",
-      "packagesPath": "/home/Ale/.nuget/packages/",
-      "outputPath": "/home/Ale/projects/PUCMINAS/POO/lista-3/POO-Lista3/Exercicio02-Veiculos/obj/",
+      "projectPath": "C:\\Users\\Raissa\\Documents\\portifolio\\POO\\lista-3\\POO-Lista3\\Exercicio02-Veiculos\\Exercicio02-Veiculos.csproj",
+      "packagesPath": "C:\\Users\\Raissa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Raissa\\Documents\\portifolio\\POO\\lista-3\\POO-Lista3\\Exercicio02-Veiculos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/Ale/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Raissa\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,7 +38,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -54,12 +60,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.13, 8.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[8.0.13, 8.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.13, 8.0.13]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.13, 8.0.13]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.126/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

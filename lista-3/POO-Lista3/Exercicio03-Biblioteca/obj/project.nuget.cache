@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "RIqIAYzqDFWNs828N/83g6YRKzCdC9enYNJsr6poAGmzi61hpKDyeHm5ynKrOfIZU2pABjvVTitbJRJPsQ1dBg==",
+  "dgSpecHash": "fVs1e1tIOtU=",
   "success": true,
-  "projectFilePath": "/home/Ale/projects/PUCMINAS/POO/lista-3/POO-Lista3/Exercicio03-Biblioteca/Exercicio03-Biblioteca.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Raissa\\Documents\\portifolio\\POO\\lista-3\\POO-Lista3\\Exercicio03-Biblioteca\\Exercicio03-Biblioteca.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raissa\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.13\\microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\Raissa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\Raissa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.13\\microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\Raissa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.13\\microsoft.netcore.app.host.win-x64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

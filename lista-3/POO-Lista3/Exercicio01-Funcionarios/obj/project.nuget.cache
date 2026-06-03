@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "EKW7DRa2Y1ezLd5L28q/s1wZ4ArqNS0IM9VdJa5te9Y/Jzg35elv8ewgpba2J4VGZPpmiukDut+xPgCmyQdGWQ==",
+  "dgSpecHash": "hZfSv9YDT+M=",
   "success": true,
-  "projectFilePath": "/home/Ale/projects/PUCMINAS/POO/lista-3/POO-Lista3/Exercicio01-Funcionarios/Exercicio01-Funcionarios.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Raissa\\Documents\\portifolio\\POO\\lista-3\\POO-Lista3\\Exercicio01-Funcionarios\\Exercicio01-Funcionarios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raissa\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.13\\microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\Raissa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\Raissa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.13\\microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\Raissa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.13\\microsoft.netcore.app.host.win-x64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

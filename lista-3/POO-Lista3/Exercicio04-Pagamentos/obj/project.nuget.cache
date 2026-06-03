@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "zpkTF9CStSZUy8r3Hb7IKbSAPaqOCySjWVOdj1WXYZT9QxwhE9UoJAvaVB0qpj8XnAAr3xrSOnVSPhIxgvWl5g==",
+  "dgSpecHash": "HfgRCR+TY4A=",
   "success": true,
-  "projectFilePath": "/home/Ale/projects/PUCMINAS/POO/lista-3/POO-Lista3/Exercicio04-Pagamentos/Exercicio04-Pagamentos.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Raissa\\Documents\\portifolio\\POO\\lista-3\\POO-Lista3\\Exercicio04-Pagamentos\\Exercicio04-Pagamentos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raissa\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.13\\microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\Raissa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\Raissa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.13\\microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\Raissa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.13\\microsoft.netcore.app.host.win-x64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

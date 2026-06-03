@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "9oS3Q6ratapQQ4Ms7IiDH0Z9tah74b267c82MvWsF3vkoibp1HfK8rfKAI5K5rlZro9igP0bnJEMwsM5kqVsZw==",
+  "dgSpecHash": "98mvZL51Mk8=",
   "success": true,
-  "projectFilePath": "/home/Ale/projects/PUCMINAS/POO/lista-3/POO-Lista3/Exercicio02-Veiculos/Exercicio02-Veiculos.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Raissa\\Documents\\portifolio\\POO\\lista-3\\POO-Lista3\\Exercicio02-Veiculos\\Exercicio02-Veiculos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raissa\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.13\\microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\Raissa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\Raissa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.13\\microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\Raissa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.13\\microsoft.netcore.app.host.win-x64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

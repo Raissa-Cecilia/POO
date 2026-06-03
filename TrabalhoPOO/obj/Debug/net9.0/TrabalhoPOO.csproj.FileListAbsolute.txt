@@ -1,0 +1,15 @@
+C:\Users\Raissa\Documents\portifolio\POO\TrabalhoPOO\bin\Debug\net9.0\TrabalhoPOO.exe
+C:\Users\Raissa\Documents\portifolio\POO\TrabalhoPOO\bin\Debug\net9.0\TrabalhoPOO.deps.json
+C:\Users\Raissa\Documents\portifolio\POO\TrabalhoPOO\bin\Debug\net9.0\TrabalhoPOO.runtimeconfig.json
+C:\Users\Raissa\Documents\portifolio\POO\TrabalhoPOO\bin\Debug\net9.0\TrabalhoPOO.dll
+C:\Users\Raissa\Documents\portifolio\POO\TrabalhoPOO\bin\Debug\net9.0\TrabalhoPOO.pdb
+C:\Users\Raissa\Documents\portifolio\POO\TrabalhoPOO\obj\Debug\net9.0\TrabalhoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raissa\Documents\portifolio\POO\TrabalhoPOO\obj\Debug\net9.0\TrabalhoPOO.AssemblyInfoInputs.cache
+C:\Users\Raissa\Documents\portifolio\POO\TrabalhoPOO\obj\Debug\net9.0\TrabalhoPOO.AssemblyInfo.cs
+C:\Users\Raissa\Documents\portifolio\POO\TrabalhoPOO\obj\Debug\net9.0\TrabalhoPOO.csproj.CoreCompileInputs.cache
+C:\Users\Raissa\Documents\portifolio\POO\TrabalhoPOO\obj\Debug\net9.0\TrabalhoPOO.sourcelink.json
+C:\Users\Raissa\Documents\portifolio\POO\TrabalhoPOO\obj\Debug\net9.0\TrabalhoPOO.dll
+C:\Users\Raissa\Documents\portifolio\POO\TrabalhoPOO\obj\Debug\net9.0\refint\TrabalhoPOO.dll
+C:\Users\Raissa\Documents\portifolio\POO\TrabalhoPOO\obj\Debug\net9.0\TrabalhoPOO.pdb
+C:\Users\Raissa\Documents\portifolio\POO\TrabalhoPOO\obj\Debug\net9.0\TrabalhoPOO.genruntimeconfig.cache
+C:\Users\Raissa\Documents\portifolio\POO\TrabalhoPOO\obj\Debug\net9.0\ref\TrabalhoPOO.dll

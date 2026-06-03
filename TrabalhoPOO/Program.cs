@@ -54,7 +54,7 @@
         }
     }
     #endregion
-    #region 7. Repositórios (Simulação de 3 CRUDs em Memória)
+    #region 7. Repositórios (Simulação de "3 CRUDs na Memória")
     public class ClienteRepository{
         private readonly List<Cliente> _clientes = new List<Cliente>();
         private int _idContador = 1;
